@@ -5,7 +5,19 @@ LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gund
 
 ### SRM Institute of Science and Technology | Chennai, India | Jul 2016 - May 2020
 - Bachelor of Technology in Information Technology
-- GPA: 8.25/10
+- GPA: 8.25/10.00
+
+### University of Maryland Baltimore County | Baltimore, MD | Aug 2022 - May 2024
+- Masters in Professional Studies, Data Science
+- Current GPA: 4.00/4.00
+
+## Skills
+- Languages: Python, SQL, R, C/C++, Java, HTML, CSS, JavaScript.
+- Tools: Jupyter notebook, MS Azure, Databricks, MySQL, PowerBi, R Studio, PyCharm, MS Excel.
+- Databases: MongoDB, MySQL.
+- Version Control: Git.
+- Problem Solving, Algorithmic Thinking.
+- Agile/Scrum Methodology.
 
 ## Work Experience
 
@@ -19,14 +31,6 @@ LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gund
 - Utilized HTML, CSS, and JavaScript to create visually appealing and user-friendly interfaces.
 - Implemented content management systems (CMS) to empower clients to manage their website content effectively.
 
-## Skills
-- Programming Languages: JavaScript, Python.
-- Frontend: React, HTML, CSS, Sass.
-- Backend: Node.js, Express, Django.
-- Databases: MongoDB, MySQL.
-- Version Control: Git.
-- Problem Solving, Algorithmic Thinking.
-- Agile/Scrum Methodology.
 
 ## Projects
 ### E-Commerce Website | 2019
