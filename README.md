@@ -8,7 +8,7 @@ LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gund
 - GPA: 8.25/10.00
 
 ### University of Maryland Baltimore County | Baltimore, MD | Aug 2022 - May 2024
-- Masters in Professional Studies, Data Science
+- Master of Professional Studies in Data Science
 - Current GPA: 4.00/4.00
 
 ## Skills
