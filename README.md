@@ -1,5 +1,5 @@
 # Mani Teja Gunda
-[LinkedIn](https://www.linkedin.com/in/mani-teja-gunda-78a1bb137) | [GitHub](https://github.com/johndoe) | [Email](mailto:maniteja.gunda18@gmail.com) | [Phone](tel:+16674649494)
+LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gunda-78a1bb137) | [GitHub](https://github.com/johndoe) | [Email](mailto:maniteja.gunda18@gmail.com) | [Phone](tel:+16674649494)
 
 ## Summary
 Results-oriented software engineer with 5 years of experience in full-stack web development. Proficient in JavaScript, Python, and modern web frameworks. Strong problem-solving skills and a passion for creating efficient and scalable software solutions. 
