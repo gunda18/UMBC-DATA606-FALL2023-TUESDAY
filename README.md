@@ -3,13 +3,13 @@ LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gund
 
 ## Education
 
-### SRM Institute of Science and Technology | Chennai, India | Jul 2016 - May 2020
-- Bachelor of Technology in Information Technology
-- GPA: 8.25/10.00
-
 ### University of Maryland Baltimore County | Baltimore, MD | Aug 2022 - May 2024
 - Master of Professional Studies in Data Science
 - Current GPA: 4.00/4.00
+- 
+### SRM Institute of Science and Technology | Chennai, India | Jul 2016 - May 2020
+- Bachelor of Technology in Information Technology
+- GPA: 8.25/10.00
 
 ## Skills
 - Languages: Python, SQL, R, C/C++, Java, HTML, CSS, JavaScript.
@@ -44,13 +44,23 @@ LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gund
 - Enhanced the accuracy of existing models by 8 percent through the creation of a robust data pipeline and the operationalization of models.
 - Created an R Shiny dashboard-based simulator that optimized ROI and incremental revenue per brand, effectively bridging the gap between businesses and achieving an average ROI increase of 10.5 percent and a total incremental revenue increase of approximately 16 million USD across multiple brands and geographies
 
+### IoT Intern | DLK Technologies | Chennai, India | Jun 2019 - Sept 2019
 
-## Projects
-### E-Commerce Website | 2019
-A fully functional e-commerce platform built with React and Node.js, enabling users to browse products, add items to the cart, and complete the checkout process.
+#### CCTV-based People Counting System for Store Traffic Analysis
+- Developed and implemented a prototype project aimed at utilizing CCTV camera footage to accurately count the total number of people in a store.
+- Utilized advanced computer vision algorithms and IoT technologies to analyze and process the CCTV footage, enabling real-time and accurate tracking of people within the store premises.
+- Played a key role in improving operational efficiency and customer experience by generating insights about store traffic patterns, enabling effective staff allocation and optimizing store layouts based on footfall data
 
-### Task Management App | 2018
-Developed a task management application using Django and React, allowing users to create, update, and organize tasks in real time.
+## Academic Projects
+
+### The Watch Store | Mar 2020
+Developed a prototype e-commerce website for watch sales, utilizing HTML, CSS, JavaScript for front-end functionality and validation, and PHP with SQL for back-end implementation.
+
+### Student Database Management System | Jan 2020
+Developed a student database management tool using Python with Tkinter for the front-end user interface and SQL for efficient database management.
+
+### Arduino Based Voting Machine | Jan 2019
+Developed a votes counting machine leveraging Arduino micro-controller and C-Sharp programming language to create a robust and efficient solution capable of accurately tallying votes in real-time.
 
 ## Certifications
 - AWS Certified Developer - Associate
