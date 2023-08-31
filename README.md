@@ -1,8 +1,11 @@
 # Mani Teja Gunda
 LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gunda-78a1bb137) | GitHub: [gunda18](https://github.com/gunda18/personal-academic-projects) | Email: [maniteja.gunda18@gmail.com](mailto:maniteja.gunda18@gmail.com) | Phone: +1 667-464-9494
 
-## Summary
-Results-oriented software engineer with 5 years of experience in full-stack web development. Proficient in JavaScript, Python, and modern web frameworks. Strong problem-solving skills and a passion for creating efficient and scalable software solutions. 
+## Education
+
+### SRM Institute of Science and Technology | Chennai, India | Jul 2016 - May 2020
+- Bachelor of Technology in Information Technology
+- GPA: 8.25/10
 
 ## Work Experience
 
@@ -15,12 +18,6 @@ Results-oriented software engineer with 5 years of experience in full-stack web 
 - Designed and built responsive websites for clients in various industries, adhering to modern design principles and UX best practices.
 - Utilized HTML, CSS, and JavaScript to create visually appealing and user-friendly interfaces.
 - Implemented content management systems (CMS) to empower clients to manage their website content effectively.
-
-## Education
-
-### Bachelor of Science in Computer Science | University of ABC | 2016 - 2020
-- Relevant Coursework: Data Structures, Algorithms, Web Development, Database Systems.
-- Graduated with honors (GPA: 3.8/4.0).
 
 ## Skills
 - Programming Languages: JavaScript, Python.
