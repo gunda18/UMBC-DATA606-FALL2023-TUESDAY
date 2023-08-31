@@ -21,7 +21,9 @@ LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gund
 
 ## Work Experience
 
-### Software Engineer | ABC Tech Solutions | 2020 - Present
+### Trainee Decision Scientist | Mu Sigma Business Solutions | Bangalore, India | Jan 2021 - Jul 2022
+
+#### HR Analytics - CPG giant based in the UK
 - Developed and maintained features for a large-scale e-commerce platform using React, Node.js, and MongoDB.
 - Collaborated with cross-functional teams to design and implement RESTful APIs, improving overall application performance.
 - Led a team of 3 developers in the successful delivery of a customer authentication module, reducing login-related issues by 30%.
