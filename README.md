@@ -6,7 +6,7 @@ LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gund
 ### University of Maryland Baltimore County | Baltimore, MD | Aug 2022 - May 2024
 - Master of Professional Studies in Data Science
 - Current GPA: 4.00/4.00
-- 
+
 ### SRM Institute of Science and Technology | Chennai, India | Jul 2016 - May 2020
 - Bachelor of Technology in Information Technology
 - GPA: 8.25/10.00
