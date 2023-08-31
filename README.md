@@ -24,14 +24,25 @@ LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gund
 ### Trainee Decision Scientist | Mu Sigma Business Solutions | Bangalore, India | Jan 2021 - Jul 2022
 
 #### HR Analytics - CPG giant based in the UK
-- Developed and maintained features for a large-scale e-commerce platform using React, Node.js, and MongoDB.
-- Collaborated with cross-functional teams to design and implement RESTful APIs, improving overall application performance.
-- Led a team of 3 developers in the successful delivery of a customer authentication module, reducing login-related issues by 30%.
+- Collaborated with an onshore team working on people management.
+- Utilized Data bricks to analyze and PowerBi to visualize HR data, including position availability, time-to-fill metrics, salary details, and forecasting of hiring capacity.
+- Contributed to delivering insightful dashboards that enabled the client to make data-driven decisions in areas such as workforce planning, recruitment optimization, and resource allocation.
 
-### Web Developer | XYZ Web Agency | 2018 - 2020
-- Designed and built responsive websites for clients in various industries, adhering to modern design principles and UX best practices.
-- Utilized HTML, CSS, and JavaScript to create visually appealing and user-friendly interfaces.
-- Implemented content management systems (CMS) to empower clients to manage their website content effectively.
+#### Bidder Capacity Boosting - CPG giant based in the UK
+- Developed and implemented a bid selection tool for a global manufacturing client, aimed at optimizing bidder selection for product transportation across various locations worldwide.
+- Designed the tool to consider bidder capacity, transportation cost per unit, and past relationships, ensuring a fair and efficient bidder selection while maintaining healthy relationships with previous bidders.
+- Significantly contributed to cost reduction efforts, achieving an average transportation cost reduction of 25 percent over three quarters, while successfully encouraging new bidders to participate in the bidding process.
+
+#### Root Cause Analysis - CPG giant based in the US
+- Developed a business rule engine to track root causes for out-of-stock and order cut instances at warehouses across various stages of planning and replenishment in the supply chain inventory.
+- Implemented a data transformation and manipulation pipeline in Python, following best coding practices and employing CI/CD methodologies using Azure DevOps.
+- Successfully executed the business flow and scaled it across multiple regions and visualized in an analytical dashboard in PowerBI.
+- This dashboard facilitated root cause analysis, leading to a remarkable 40 percent reduction in order cuts and saving approximately 1.5 million USD in immediate lost sales.
+
+#### Media Mix Modelling - CPG giant based in the US
+- Worked with the digital Ads team to develop a methodology for identifying trending media channels using Nielsen data.
+- Enhanced the accuracy of existing models by 8 percent through the creation of a robust data pipeline and the operationalization of models.
+- Created an R Shiny dashboard-based simulator that optimized ROI and incremental revenue per brand, effectively bridging the gap between businesses and achieving an average ROI increase of 10.5 percent and a total incremental revenue increase of approximately 16 million USD across multiple brands and geographies
 
 
 ## Projects
