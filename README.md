@@ -13,7 +13,7 @@ LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gund
 
 ## Skills
 - Languages: Python, SQL, R, C/C++, Java, HTML, CSS, JavaScript.
-- Tools: Jupyter notebook, MS Azure, Databricks, MySQL, PowerBi, R Studio, PyCharm, MS Excel.
+- Tools: Jupyter notebook, MS Azure, Databricks, PowerBi, R Studio, PyCharm, MS Excel.
 - Databases: MongoDB, MySQL.
 - Version Control: Git.
 - Problem Solving, Algorithmic Thinking.
