@@ -1,3 +1,5 @@
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="passport_pic.png" />
+
 # Mani Teja Gunda
 LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gunda-78a1bb137) | GitHub: [gunda18](https://github.com/gunda18/personal-academic-projects) | Email: [maniteja.gunda18@gmail.com](mailto:maniteja.gunda18@gmail.com) | Phone: +1 667-464-9494
 
