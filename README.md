@@ -54,22 +54,24 @@ LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gund
 ## Academic Projects
 
 ### The Watch Store | Mar 2020
-Developed a prototype e-commerce website for watch sales, utilizing HTML, CSS, JavaScript for front-end functionality and validation, and PHP with SQL for back-end implementation.
+- Developed a prototype e-commerce website for watch sales, utilizing HTML, CSS, JavaScript for front-end functionality and validation, and PHP with SQL for back-end implementation.
 
 ### Student Database Management System | Jan 2020
-Developed a student database management tool using Python with Tkinter for the front-end user interface and SQL for efficient database management.
+- Developed a student database management tool using Python with Tkinter for the front-end user interface and SQL for efficient database management.
 
 ### Arduino Based Voting Machine | Jan 2019
-Developed a votes counting machine leveraging Arduino micro-controller and C-Sharp programming language to create a robust and efficient solution capable of accurately tallying votes in real-time.
+- Developed a votes counting machine leveraging Arduino micro-controller and C-Sharp programming language to create a robust and efficient solution capable of accurately tallying votes in real-time.
 
-## Certifications
-- AWS Certified Developer - Associate
-- Certified ScrumMaster (CSM)
+## Awards
+### SPOT Award | Sept 2021
+- For exceptional technical performance and effective communication with clients and stakeholders. 
 
 ## Languages
+- Telugu (Native)
 - English (Fluent)
-- Spanish (Intermediate)
+- Hindi (Intermediate)
+- Tamil (Intermediate)
 
 ## Interests
-Web Development, Problem Solving, Open Source Contributions.
+Machine Learning, Problem Solving, Database Management.
 
