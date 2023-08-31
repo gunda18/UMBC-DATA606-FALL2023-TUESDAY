@@ -73,5 +73,5 @@ LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gund
 - Tamil (Intermediate)
 
 ## Interests
-Machine Learning, Problem Solving, Database Management.
+Machine Learning, Dashboarding, Database Management.
 
