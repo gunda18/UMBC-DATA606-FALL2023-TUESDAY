@@ -55,14 +55,14 @@ LinkedIn: [mani-teja-gunda-78a1bb137](https://www.linkedin.com/in/mani-teja-gund
 
 ## Academic Projects
 
-### The Watch Store | Mar 2020
+### [The Watch Store](https://github.com/gunda18/personal-academic-projects/tree/main/The%20Watch%20Store%20-%20Prototype%20Website) | Mar 2020
 - Developed a prototype e-commerce website for watch sales, utilizing HTML, CSS, JavaScript for front-end functionality and validation, and PHP with SQL for back-end implementation.
 
-### Student Database Management System | Jan 2020
+### [Student Database Management System](https://github.com/gunda18/personal-academic-projects/tree/main/Student%20Database%20Management%20System) | Jan 2020
 - Developed a student database management tool using Python with Tkinter for the front-end user interface and SQL for efficient database management.
 
-### Arduino Based Voting Machine | Jan 2019
-- Developed a votes counting machine leveraging Arduino micro-controller and C-Sharp programming language to create a robust and efficient solution capable of accurately tallying votes in real-time.
+### [Liver Disease Prediction Using Machine Learning](https://github.com/gunda18/personal-academic-projects/tree/main/Liver%20Disease%20Prediction%20Using%20Machine%20Learning) | Mar 2022
+- Developed a python script with various classification models that are trained on Liver data to classify if the patient has liver disease.
 
 ## Awards
 ### SPOT Award | Sept 2021
